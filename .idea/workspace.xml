@@ -1,30 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fca045-efe2-47d2-a5c8-2be8d9100753" name="Default Changelist" comment="" />
+    <list default="true" id="b7fca045-efe2-47d2-a5c8-2be8d9100753" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/CountingValleys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/JumpingOnClouds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/RepeatedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/StockPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/array/HourGlassSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/array/LeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/dictionaries/MagazineCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/test/java/com/itsz/data/structure/exercise/CountingValleysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-structure-learning/src/test/java/com/itsz/data/structure/exercise/JumpingOnCloudsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-learning/data-structure-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-learning/data-structure-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-learning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-learning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/link/SimpleCircleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/link/SimpleCircleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/link/SingleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/link/SingleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-learning/target/classes/com/itsz/data/structure/link/SimpleCircleLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-learning/target/classes/com/itsz/data/structure/link/SimpleCircleLinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-structure-learning/target/classes/com/itsz/data/structure/link/SingleLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/data-structure-learning/target/classes/com/itsz/data/structure/link/SingleLinkedListTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1d1lwE47x7mr2CEqphJIwj3xlFH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../docker-with-compose" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itsz.data.structure.exercise" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MagazineCheck">
+    <configuration name="HourGlassSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.data.structure.exercise.array.HourGlassSum" />
+      <module name="data-structure-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.data.structure.exercise.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagazineCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.data.structure.exercise.dictionaries.MagazineCheck" />
+      <module name="data-structure-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.data.structure.exercise.dictionaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingValleysTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structure-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.data.structure.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itsz.data.structure.exercise" />
+      <option name="MAIN_CLASS_NAME" value="com.itsz.data.structure.exercise.CountingValleysTest" />
+      <option name="METHOD_NAME" value="name(int,int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpingOnCloudsTest.testjumpingOnCloud" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structure-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.data.structure.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itsz.data.structure.exercise" />
+      <option name="MAIN_CLASS_NAME" value="com.itsz.data.structure.exercise.JumpingOnCloudsTest" />
+      <option name="METHOD_NAME" value="testjumpingOnCloud" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatedString.testRepeatedString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structure-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.data.structure.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itsz.data.structure.exercise" />
+      <option name="MAIN_CLASS_NAME" value="com.itsz.data.structure.exercise.RepeatedString" />
+      <option name="METHOD_NAME" value="testRepeatedString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MagazineCheck" />
+        <item itemvalue="Application.HourGlassSum" />
+        <item itemvalue="JUnit.RepeatedString.testRepeatedString" />
+        <item itemvalue="JUnit.JumpingOnCloudsTest.testjumpingOnCloud" />
+        <item itemvalue="JUnit.CountingValleysTest.name" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,10 +187,100 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1591601234469">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2457" y="334" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595847196758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2457" y="334" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595847196758" />
+    <state width="454" height="582" key="DebuggerActiveHint" timestamp="1595844717477">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="454" height="582" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595844717477" />
+    <state x="2610" y="218" key="FileChooserDialogImpl" timestamp="1595484520353">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591601234469" />
+    <state x="2610" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595484520353" />
+    <state width="1865" height="224" key="GridCell.Tab.0.bottom" timestamp="1595926148536">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595926148536" />
+    <state width="1865" height="224" key="GridCell.Tab.0.center" timestamp="1595926148536">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="224" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595926148536" />
+    <state width="1865" height="224" key="GridCell.Tab.0.left" timestamp="1595926148535">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="224" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595926148535" />
+    <state width="1865" height="224" key="GridCell.Tab.0.right" timestamp="1595926148536">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="224" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595926148536" />
+    <state width="1865" height="435" key="GridCell.Tab.1.bottom" timestamp="1595909008841">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="435" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595909008841" />
+    <state width="1865" height="435" key="GridCell.Tab.1.center" timestamp="1595909008841">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="435" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595909008841" />
+    <state width="1865" height="435" key="GridCell.Tab.1.left" timestamp="1595909008840">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="435" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595909008840" />
+    <state width="1865" height="435" key="GridCell.Tab.1.right" timestamp="1595909008841">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="435" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595909008841" />
+    <state x="2650" y="444" key="ReplaceDuplicatesPrompt" timestamp="1595905619042">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2650" y="444" key="ReplaceDuplicatesPrompt/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595905619042" />
+    <state x="2256" y="77" key="SettingsEditor" timestamp="1595847311116">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2256" y="77" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595847311116" />
+    <state x="2592" y="295" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595901336680">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2592" y="295" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595901336680" />
+    <state x="2544" y="210" width="671" height="623" key="extract.method.dialog" timestamp="1595905617274">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2544" y="210" width="671" height="623" key="extract.method.dialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595905617274" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/CountingValleys.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/data-structure-learning/src/main/java/com/itsz/data/structure/exercise/array/HourGlassSum.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr[i][j]" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

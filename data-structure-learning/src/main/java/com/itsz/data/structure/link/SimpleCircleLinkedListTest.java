@@ -1,5 +1,6 @@
 package com.itsz.data.structure.link;
 
+
 import org.junit.Test;
 
 public class SimpleCircleLinkedListTest {

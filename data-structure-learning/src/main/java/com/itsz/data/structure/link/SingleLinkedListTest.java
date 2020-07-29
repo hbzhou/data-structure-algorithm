@@ -1,7 +1,6 @@
 package com.itsz.data.structure.link;
 
 import org.junit.Test;
-
 import java.util.LinkedList;
 import java.util.List;
 
